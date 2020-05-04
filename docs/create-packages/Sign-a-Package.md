@@ -100,3 +100,4 @@ This command creates a testing certificate available in the current user's perso
 
 - [Manage package trust boundaries](../consume-packages/installing-signed-packages.md)
 - [Signed Packages Reference](../reference/Signed-Packages-Reference.md)
+- [Verify Code signing Certificte Installaton](https://codesigningstore.com/how-to-verify-your-code-signing-certificate-is-installed)
